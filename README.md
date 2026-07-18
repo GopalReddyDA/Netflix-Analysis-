@@ -27,7 +27,7 @@ The dataset contains information about Netflix content, including:
 * Genre
 * Description
 
-* Findings & Conclusion : 
+## Findings & Conclusion : 
 Key Findings :
 * Netflix offers a diverse collection of Movies and TV Shows across various genres and ratings.
 * Content ratings indicate the primary audience targeted by the platform.
