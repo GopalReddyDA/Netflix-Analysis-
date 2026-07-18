@@ -26,3 +26,11 @@ The dataset contains information about Netflix content, including:
 * Duration
 * Genre
 * Description
+
+* Findings & Conclusion : 
+Key Findings :
+* Netflix offers a diverse collection of Movies and TV Shows across various genres and ratings.
+* Content ratings indicate the primary audience targeted by the platform.
+* A few countries contribute the majority of Netflix's content, with India showing consistent content growth over the years.
+* Director, and actor analysis highlights the most prominent contributors to Netflix's library.
+* Keyword-based content classification provides a simple overview of content themes.
