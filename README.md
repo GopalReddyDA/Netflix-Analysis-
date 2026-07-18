@@ -6,8 +6,8 @@ A complete SQL data analysis project on the **Netflix Movies and TV Shows** data
 The objective of this project is to analyze Netflix's content library using SQL and answer business-focused questions. It covers data exploration, aggregation, filtering, ranking, string manipulation, date functions, subqueries, Common Table Expressions (CTEs), and window functions.
 
 ## Tech Stack :
-Database: PostgreSQL
-Language: SQL
+Database: PostgreSQL ,
+Language: SQL , 
 Dataset: Netflix Movies & TV Shows Dataset (Kaggle)
 
 ## Dataset :
