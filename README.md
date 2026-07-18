@@ -1,4 +1,5 @@
 # 🎬 Netflix Data Analysis Using SQL
+[Netflix_logo]()
 
 A complete SQL data analysis project on the **Netflix Movies and TV Shows** dataset using **PostgreSQL**. This project demonstrates SQL skills by solving real-world business problems commonly encountered by Data Analysts.
 
